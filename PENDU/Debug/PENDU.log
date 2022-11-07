@@ -1,0 +1,4 @@
+﻿  main.c
+Debug\dico.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+main.obj : error LNK2019: symbole externe non résolu _piocherMot référencé dans la fonction _main
+C:\Users\Utilisateur\source\repos\PENDU\Debug\PENDU.exe : fatal error LNK1120: 1 externes non résolus
